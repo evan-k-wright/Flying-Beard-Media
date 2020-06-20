@@ -90,3 +90,9 @@ p {
     font-size: 20px;
     margin-left: 30px
 }
+
+.bountiful {
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    align-items: center;
+}
