@@ -1,4 +1,10 @@
 h1 {
-    font-family: fantasy;
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: bold;
 }
 
+ul {
+    font-family: monospace;
+    font-weight: bold;
+}
