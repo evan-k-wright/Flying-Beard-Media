@@ -76,23 +76,37 @@ li {
     align-items: center;
 }
 
-.imgLeft {
+/* .imgLeft {
     display: flex;
-}
+} */
 
 img {
-    width: 350px;
+    width: 400px;
 }
 
-p {
+.brighamCityInfo {
     color: #003057;
     font-family: monospace;
     font-size: 20px;
-    margin-left: 30px
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.bountifulBackground {
+    background-color: #003057;
 }
 
 .bountiful {
     margin: 10px 10px 10px 10px;
     display: flex;
     align-items: center;
+    justify-content: flex-end;
+}
+
+.bountifulInfo {
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
