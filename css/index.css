@@ -1,6 +1,6 @@
 h1 {
     font-family: monospace;
-    font-size: 50px;
+    font-size: 55px;
     font-weight: bold;
 }
 
@@ -19,7 +19,7 @@ ul {
     margin: 10px;
     padding: 0;
     word-spacing: 10px;
-    font-size: 35px;
+    font-size: 30px;
     display: flex;
 }
 
